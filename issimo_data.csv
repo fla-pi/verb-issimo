@@ -1,0 +1,351 @@
+word;SemField;SemField2;Aktionsart2;1_3sg_pp;1_3sg_pres_ind;1_3sg_imp;inf;ger;extra;fr;intensified
+essere;verb.stative;;stativo;;Illocutionary Force;Illocutionary Force;Modal/sentence intensification;;v. intr.;Illocutionary Force_Illocutionary Force_Modal/sentence intensification;sì
+dire;verb.communication;;puntuale atelico;Illocutionary Force;Illocutionary Force;;;;v. tr., v. intr.;Illocutionary Force_Illocutionary Force;sì
+dire2;verb.communication;;risultativo;;;;;;v. tr., v. intr.;;no
+dovere;verb.stative;;stativo;;Manner;Illocutionary Force;;;v. tr.;Manner_Illocutionary Force;sì
+stare;verb.stative;;stativo;Completion;Illocutionary Force;;Illocutionary Force;;v. intr.;Completion_Illocutionary Force_Illocutionary Force;sì
+potere;verb.stative;;stativo;Illocutionary Force;;;;;v. tr., v. intr.;Illocutionary Force;sì
+venire;verb.motion;;risultativo;Intensity;Illocutionary Force;;;;v. intr.;Intensity_Illocutionary Force;sì
+sentire;verb.perception;verb.emotion;stativo;Intensity;Reiteration;Intensity;;;v. tr., v. intr.;Intensity_Reiteration_Intensity;sì
+mettere;verb.contact;verb.change;puntuale telico;;;;;;v. tr., v. intr.;;no
+guardare;verb.perception;;attivit√†;;Manner;;Modal/sentence intensification;Manner;v. tr., v. intr.;Manner_Modal/sentence intensification_Manner;sì
+chiamare;verb.communication;;puntuale telico;Reiteration;;;;;v. tr.;Reiteration;sì
+chiamare2;verb.communication;;risultativo;;Manner;;;;v. tr.;Manner;sì
+trovare;verb.possession;;puntuale telico;Illocutionary Force;Illocutionary Force;;Reiteration;;v. tr.;Illocutionary Force_Illocutionary Force_Reiteration;sì
+scrivere;verb.creation;;risultativo;Argument Quantity;Manner;;Modal/sentence intensification;;v. tr.;Argument Quantity_Manner_Modal/sentence intensification;sì
+portare;verb.motion;verb.contact;risultativo;;Illocutionary Force;;;;v. tr., v. intr.;Illocutionary Force;sì
+ricordare;verb.cognition;;stativo;Manner;;;;;v. tr.;Manner;sì
+sembrare;verb.perception;verb.stative;stativo;;;;;;v. intr.;;no
+lasciare;verb.motion;;stativo;;;;Illocutionary Force;;v. tr.;Illocutionary Force;sì
+lasciare2;verb.social;;puntuale telico;;Illocutionary Force;;;;v. tr.;Illocutionary Force;sì
+scusare;verb.communication;;puntuale atelico;Reiteration;Intensity;;Reiteration;;v. tr., v. intr.;Reiteration_Intensity_Reiteration;sì
+leggere;verb.cognition;;attivit√†;;;;;Duration;v. tr.;Duration;sì
+leggere2;verb.cognition;;risultativo;Manner;Manner;;;;v. tr.;Manner_Manner;sì
+cercare;verb.possession;;attivit√†;;Manner;;;Duration;v. tr.;Manner_Duration;sì
+riuscire;verb.stative;;puntuale telico;Amelioration;;;;Manner;v. intr.;Amelioration_Manner;sì
+mandare;verb.motion;;puntuale telico;Intensity;;;;;v. tr.;Intensity;sì
+bastare;verb.stative;;stativo;Illocutionary Force;Illocutionary Force;;;;v. intr.;Illocutionary Force_Illocutionary Force;sì
+rimanere;verb.stative;;stativo;Intensity;;;Modal/sentence intensification;;v. intr.;Intensity_Modal/sentence intensification;sì
+finire;verb.consumption;;puntuale telico;Completion;;;Modal/sentence intensification;;v. tr., v. intr.;Completion_Modal/sentence intensification;sì
+entrare;verb.motion;;puntuale telico;;Manner;;;;v. intr., v. tr.;Manner;sì
+cambiare;verb.change;;puntuale telico;Illocutionary Force;Illocutionary Force;;;;v. tr., v. intr.;Illocutionary Force_Illocutionary Force;sì
+pagare;verb.possession;;puntuale telico;Manner;;;Argument Quantity;;v. tr.;Manner_Argument Quantity;sì
+uscire;verb.motion;;puntuale telico;Completion;Illocutionary Force;;;;v. intr.;Completion_Illocutionary Force;sì
+ringraziare;verb.communication;;puntuale telico;;Intensity;;;;v. tr.;Intensity;sì
+perdere;verb.possession;;puntuale telico;Manner;Illocutionary Force;;Illocutionary Force;Manner;v. tr., v. intr.;Manner_Illocutionary Force_Illocutionary Force_Manner;sì
+significare;verb.stative;;stativo;;;;;;v. tr.;;no
+vivere;verb.stative;;attivit√†;;;;;;v. intr., v. tr.;;no
+vivere2;verb.stative;;stativo;;;;;;v. intr., v. tr.;;no
+vivere3;verb.stative;;attivit√†;;;;;;v. intr., v. tr.;;no
+studiare;verb.cognition;;attivit√†;Duration;Duration;;Duration;;v. tr.;Duration_Duration_Duration;sì
+sperare;verb.emotion;;stativo;;Intensity;Intensity;;Intensity;v. tr., v. intr.;Intensity_Intensity_Intensity;sì
+seguire;verb.motion;;attivit√†;Manner;Illocutionary Force;;Modal/sentence intensification;;v. tr., v. intr.;Manner_Illocutionary Force_Modal/sentence intensification;sì
+ripetere;verb.communication;;puntuale atelico;;Reiteration;;Illocutionary Force;;v. tr.;Reiteration_Illocutionary Force;sì
+vendere;verb.possession;;risultativo;Completion;;;Illocutionary Force;;v. tr.;Completion_Illocutionary Force;sì
+vendere2;verb.stative;;stativo;;;;;;v. tr.;;no
+interessare;verb.emotion;;stativo;;;;;;v. tr., v. intr.;;no
+scegliere;verb.cognition;;puntuale telico;Illocutionary Force;;;;;v. tr.;Illocutionary Force;sì
+partire;verb.motion;;puntuale telico;Completion;;;Intensity;;v. intr.;Completion_Intensity;sì
+aprire;verb.contact;;puntuale telico;Completion;;;;Intensity;v. tr., v. intr.;Completion_Intensity;sì
+mancare;verb.stative;;stativo;;Intensity;Intensity;Intensity;;v. intr., v. tr.;Intensity_Intensity_Intensity;sì
+mancare2;verb.contact;;puntuale telico;;;;;;v. intr., v. tr.;;no
+decidere;verb.cognition;;puntuale telico;Illocutionary Force;;;;;v. tr., v. intr.;Illocutionary Force;sì
+esprimere;verb.communication;;risultativo;;;;;;v. tr.;;no
+proporre;verb.communication;;puntuale telico;;;;;;v. tr.;;no
+occupare;verb.stative;;stativo;;;;;;v. tr.;;no
+occupare2;verb.possession;;risultativo;;Illocutionary Force;;;;v. tr.;Illocutionary Force;sì
+occupare3;verb.social;;attivit√†;;;;;;v. tr.;;no
+morire;verb.change;;puntuale telico;Illocutionary Force;Illocutionary Force;;Modal/sentence intensification;Illocutionary Force;v. intr., v. tr.;Illocutionary Force_Illocutionary Force_Modal/sentence intensification_Illocutionary Force;sì
+riconoscere;verb.perception;;puntuale telico;;;;;;v. tr.;;no
+fermare;verb.motion;verb.contact;puntuale telico;;;;;;v. tr., v. intr.;;no
+organizzare;verb.creation;verb.social;puntuale telico;;;;;;v. tr.;;no
+preoccupare;verb.emotion;;stativo;;Illocutionary Force;;Argument Quantity;Argument Quantity;v. tr.;Illocutionary Force_Argument Quantity_Argument Quantity;sì
+sbagliare;verb.cognition;;puntuale telico;Completion;Completion;Completion;Modal/sentence intensification;Illocutionary Force;v. intr., v. tr.;Completion_Completion_Completion_Modal/sentence intensification_Illocutionary Force;sì
+dipendere;verb.stative;;stativo;;Argument Quantity;;;;v. intr.;Argument Quantity;sì
+creare;verb.creation;;puntuale telico;;;;;;v. tr.;;no
+salutare;verb.communication;;puntuale telico;;;;;;v. tr.;;no
+ritornare;verb.motion;;puntuale telico;Completion;Illocutionary Force;;;;v. intr., v. tr.;Completion_Illocutionary Force;sì
+raccontare;verb.communication;;risultativo;;;;Argument Quantity;;v. tr., v. intr.;Argument Quantity;sì
+mantenere;verb.contact;verb.possession;attivit√†;Completion;;;;;v. tr.;Completion;sì
+restare;verb.stative;verb.motion;stativo;;;;;;v. intr., v. tr.;;no
+costare;verb.stative;;stativo;;;;;;v. intr.;;no
+riportare;verb.possession;;puntuale telico;;;;Illocutionary Force;;v. tr.;Illocutionary Force;sì
+permettere;verb.social;;stativo;;Illocutionary Force;;Illocutionary Force;;v. tr.;Illocutionary Force_Illocutionary Force;sì
+produrre;verb.creation;;risultativo;;;;;;v. tr.;;no
+funzionare;verb.contact;;stativo;Completion;Manner;;;Manner;v. intr.;Completion_Manner_Manner;sì
+immaginare;verb.cognition;verb.creation;attivit√†;;Manner;;;;v. tr.;Manner;sì
+dimenticare;verb.cognition;;puntuale telico;Completion;;;Modal/sentence intensification;;v. tr.;Completion_Modal/sentence intensification;sì
+alzare;verb.motion;;puntuale telico;Argument Quantity;;;;;v. tr.;Argument Quantity;sì
+indicare;verb.communication;;attivit√†;;;;;;v. tr.;;no
+convincere;verb.communication;;puntuale telico;Argument Quantity;Completion;;;;v. tr.;Argument Quantity_Completion;sì
+aggiungere;verb.change;;risultativo;;Manner;;;;v. tr., v. intr.;Manner;sì
+cadere;verb.motion;;puntuale telico;Intensity;Manner;;Completion;Completion;v. intr.;Intensity_Manner_Completion_Completion;sì
+firmare;verb.communication;;puntuale telico;Illocutionary Force;;;;;v. tr.;Illocutionary Force;sì
+muovere;verb.motion;;attivit√†;;Manner;;Modal/sentence intensification;Argument Quantity;v. tr., v. intr.;Manner_Modal/sentence intensification_Argument Quantity;sì
+superare;verb.motion;verb.competition;puntuale telico;Completion;;;;;v. tr.;Completion;sì
+ricevere;verb.possession;;puntuale telico;;;;;;v. tr.;;no
+ottenere;verb.possession;;puntuale telico;;;;;;v. tr.;;no
+discutere;verb.communication;;attivit√†;;;;;;v. tr., v. intr.;;no
+spendere;verb.possession;;puntuale telico;;;;;;v. tr.;;no
+offrire;verb.possession;;puntuale telico;;;;;;v. tr.;;no
+insegnare;verb.communication;;stativo;;;;;;v. tr.;;no
+insegnare2;verb.communication;;puntuale telico;;;;;;v. tr.;;no
+figurare;verb.cognition;verb.stative;stativo;;;;;;v. tr., v. intr.;;no
+dedicare;verb.cognition;;attivit√†;;;;;;v. tr.;;no
+dedicare2;verb.communication;;puntuale telico;;Manner;;;;v. tr.;Manner;sì
+riprendere;verb.possession;;risultativo;;;;;;v. tr., v. intr.;;no
+crescere;verb.change;;risultativo;Argument Quantity;;;;Manner;v. intr., v. tr.;Argument Quantity_Manner;sì
+rompere;verb.change;verb.contact;puntuale telico;Completion;Intensity;;;Intensity;v. tr., v. intr.;Completion_Intensity_Intensity;sì
+invitare;verb.social;;risultativo;;Manner;;;;v. tr.;Manner;sì
+riferire;verb.communication;;risultativo;;;;;;v. tr., v. intr.;;no
+preferire;verb.cognition;;stativo;Intensity;;;;;v. tr.;Intensity;sì
+capitare;verb.change;;puntuale telico;;;;;;v. intr., v. tr.;;no
+difendere;verb.communication;verb.competititon;attivit√†;Manner;;;;;v. tr.;Manner;sì
+costituire;verb.stative;verb.creation;stativo;;;;;;v. tr.;;no
+derivare;verb.stative;verb.change;stativo;;;;;;v. intr., v. tr.;;no
+votare;verb.social;;puntuale telico;Illocutionary Force;Illocutionary Force;;;;v. tr., v. intr.;Illocutionary Force_Illocutionary Force;sì
+fumare;verb.consumption;;attivit√†;;;;;Argument Quantity;v. intr., v. tr.;Argument Quantity;sì
+fumare2;verb.consumption;;risultativo;;;;;;v. intr., v. tr.;;no
+raccogliere;verb.possession;;risultativo;;;;;;v. tr.;;no
+controllare;verb.social;verb.cognition;risultativo;;Manner;;;;v. tr.;Manner;sì
+richiamare;verb.communication;;puntuale telico;;;;;;v. tr.;;no
+richiamare2;verb.communication;;puntuale atelico;;;;;;v. tr.;;no
+richiamare3;verb.cognition;;stativo;;;;;;v. tr.;;no
+informare;verb.communication;;risultativo;;;;;;v. tr.;;no
+abitare;verb.stative;;stativo;;;;;;v. intr., v. tr.;;no
+concludere;verb.change;verb.cognition;puntuale telico;;;Illocutionary Force;;;v. tr., v. intr.;Illocutionary Force;sì
+recuperare;verb.possession;;puntuale telico;;Manner;;Modal/sentence intensification;;v. tr.;Manner_Modal/sentence intensification;sì
+garantire;verb.communication;;puntuale telico;;;;Illocutionary Force;;v. tr., v. intr.;Illocutionary Force;sì
+garantire2;verb.stative;;stativo;;;;;;v. tr., v. intr.;;no
+eliminare;verb.change;;puntuale telico;;;;Manner;;v. tr.;Manner;sì
+scoprire;verb.cognition;verb.perception;puntuale telico;;;;;;v. tr.;;no
+sposare;verb.social;;puntuale telico;;Illocutionary Force;;;;v. tr., v. intr.;Illocutionary Force;sì
+domandare;verb.communication;;puntuale telico;;;;;;v. tr., v. intr.;;no
+sviluppare;verb.creation;verb.change;risultativo;Argument Quantity;;;;;v. tr., v. intr.;Argument Quantity;sì
+ritrovare;verb.possession;;puntuale telico;;;;;;v. tr.;;no
+verificare;verb.cognition;;puntuale telico;;;;;;v. tr.;;no
+staccare;verb.contact;verb.change;puntuale telico;;;;;;v. tr., v. intr.;;no
+rivedere;verb.cognition;;puntuale atelico;;;;Illocutionary Force;;v. tr.;Illocutionary Force;sì
+assistere;verb.perception;verb.social;attivit√†;;;;;;v. intr., v. tr.;;no
+richiedere;verb.communication;verb.consumption;puntuale telico;;Intensity;;;;v. tr.;Intensity;sì
+comunicare;verb.communication;;risultativo;;;;;;v. tr., v. intr.;;no
+sostituire;verb.change;;risultativo;;;;;;v. tr.;;no
+procedere;verb.change;;attivit√†;;;;;;v. intr.;;no
+smettere;verb.change;;puntuale telico;Illocutionary Force;;;Modal/sentence intensification;;v. tr., v. intr.;Illocutionary Force_Modal/sentence intensification;sì
+sfruttare;verb.consumption;;attivit√†;;Intensity;;;;v. tr.;Intensity;sì
+compiere;verb.creation;;puntuale telico;;;;;;v. tr.;;no
+consumare;verb.consumption;;risultativo;Argument Quantity;;;;;v. tr.;Argument Quantity;sì
+guidare;verb.motion;;attivit√†;;;;;;v. tr.;;no
+coinvolgere;verb.social;;risultativo;Intensity;;;;;v. tr.;Intensity;sì
+rischiare;verb.stative;;stativo;Argument Quantity;;;;;v. tr.;Argument Quantity;sì
+determinare;verb.cognition;;puntuale telico;;;;;;v. tr.;;no
+tradurre;verb.communication;verb.change;risultativo;;;;;;v. tr.;;no
+sedere;verb.motion;;puntuale telico;Intensity;;;;;v. intr., v. tr.;Intensity;sì
+affermare;verb.communication;;risultativo;;Illocutionary Force;;;;v. tr.;Illocutionary Force;sì
+segnare;verb.contact;;puntuale telico;;Manner;;;;v. tr.;Manner;sì
+uccidere;verb.contact;;puntuale telico;Intensity;Illocutionary Force;;Modal/sentence intensification;Intensity;v. tr.;Intensity_Illocutionary Force_Modal/sentence intensification_Intensity;sì
+acquistare;verb.possession;;puntuale telico;;;;;;v. tr., v. intr.;;no
+abbandonare;verb.motion;;puntuale telico;Completion;Completion;;;;v. tr.;Completion_Completion;sì
+scappare;verb.motion;;attivit√†;Manner;Manner;;Modal/sentence intensification;;v. intr.;Manner_Manner_Modal/sentence intensification;sì
+scappare2;verb.motion;;risultativo;;Manner;;;;v. intr.;Manner;sì
+giudicare;verb.cognition;;stativo;;;;;;v. tr., v. intr.;;no
+rispettare;verb.cognition;;stativo;;Argument Quantity;;;;v. tr.;Argument Quantity;sì
+contare;verb.cognition;;risultativo;;;;;;v. tr., v. intr.;;no
+contare2;verb.cognition;;stativo;;Illocutionary Force;;;;v. tr., v. intr.;Illocutionary Force;sì
+pubblicare;verb.communication;;puntuale telico;Reiteration;;;Illocutionary Force;;v. tr.;Reiteration_Illocutionary Force;sì
+consegnare;verb.contact;verb.possession;risultativo;;;;;;v. tr.;;no
+sostenere;verb.social;;risultativo;;;;;;v. tr.;;no
+sostenere2;verb.contact;verb.social;attivit√†;;;Intensity;;;v. tr.;Intensity;sì
+sostenere3;verb.cognition;;stativo;;;;;;v. tr.;;no
+migliorare;verb.change;;risultativo;Argument Quantity;;;Argument Quantity;Manner;v. tr., v. intr.;Argument Quantity_Argument Quantity_Manner;sì
+escludere;verb.social;verb.cognition;puntuale telico;Illocutionary Force;Illocutionary Force;;;Manner;v. tr.;Illocutionary Force_Illocutionary Force_Manner;sì
+guadagnare;verb.possession;;risultativo;Illocutionary Force;;;;;v. tr., v. intr.;Illocutionary Force;sì
+accadere;verb.change;;puntuale telico;;;;;;v. intr.;;no
+avviare;verb.motion;;puntuale telico;;;;;;v. tr.;;no
+lamentare;verb.communication;verb.emotion;attivit√†;Reiteration;Intensity;;;;v. tr., v. intr.;Reiteration_Intensity;sì
+giurare;verb.communication;;puntuale telico;;Illocutionary Force;;Illocutionary Force;;v. tr.;Illocutionary Force_Illocutionary Force;sì
+svegliare;verb.body;;puntuale telico;Manner;;;Illocutionary Force;;v. tr.;Manner_Illocutionary Force;sì
+condividere;verb.communication;;stativo;;Illocutionary Force;;;;v. tr.;Illocutionary Force;sì
+condividere2;verb.communication;;puntuale atelico;;Illocutionary Force;;;;v. tr.;Illocutionary Force;sì
+suonare;verb.contact;verb.communication;attivit√†;;Illocutionary Force;;Amelioration;;v. tr., v. intr.;Illocutionary Force_Amelioration;sì
+lanciare;verb.contact;;risultativo;;Illocutionary Force;;;;v. tr., v. intr.;Illocutionary Force;sì
+limitare;verb.social;;attivit√†;;;;;;v. tr.;;no
+avere1;verb.stative;verb.possession;stativo;;Illocutionary Force;;;;v. tr.;Illocutionary Force;sì
+avere2;verb.change;verb.possession;stativo;;;;;;v. tr.;;no
+fare1;verb.creation;;risultativo;;;;;;v. tr.;;no
+fare2;verb.emotion;verb.perception;attivit√†;;;;;;v. tr.;;no
+fare3;verb.motion;verb.stative;puntuale atelico;Reiteration;;;;;v. tr.;Reiteration;sì
+fare4;verb.motion;verb.creation;attivit√†;Completion;;;Argument Quantity;;v. tr.;Completion_Argument Quantity;sì
+fare5;verb.cognition;;puntuale telico;;Illocutionary Force;;;Illocutionary Force;v. tr.;Illocutionary Force_Illocutionary Force;sì
+andare;verb.motion;;puntuale atelico;;;;;;v. intr.;;no
+andare2;verb.motion;;risultativo;Completion;Illocutionary Force;;Modal/sentence intensification;Completion;v. intr.;Completion_Illocutionary Force_Modal/sentence intensification_Completion;sì
+andare3;verb.emotion;;stativo;;Illocutionary Force;;;;v. intr.;Illocutionary Force;sì
+sapere;verb.perception;verb.cognition;stativo;;Illocutionary Force;Illocutionary Force;Modal/sentence intensification;;v. tr., v. intr.;Illocutionary Force_Illocutionary Force_Modal/sentence intensification;sì
+volere;verb.emotion;verb.stative;stativo;;Intensity;Intensity;Intensity;Intensity;v. tr.;Intensity_Intensity_Intensity_Intensity;sì
+vedere;verb.perception;;stativo;Illocutionary Force;Amelioration;;Modal/sentence intensification;;v. tr., v. intr.;Illocutionary Force_Amelioration_Modal/sentence intensification;sì
+capire;verb.cognition;;puntuale telico;Illocutionary Force;Illocutionary Force;;;Completion;v. tr., v. intr.;Illocutionary Force_Illocutionary Force_Completion;sì
+parlare;verb.communication;;attivit√†;;Reiteration;;Reiteration;;v. intr., v. tr.;Reiteration_Reiteration;sì
+dare;verb.creation;verb.possession;puntuale atelico;;;;;;v. tr., v. intr.;;no
+pensare;verb.creation;verb.cognition;attivit√†;Duration;Intensity;;Duration;Duration;v. intr., v. tr.;Duration_Intensity_Duration_Duration;sì
+prendere;verb.emotion;verb.possession;puntuale telico;Intensity;;;;;v. tr., v. intr.;Intensity;sì
+credere;verb.cognition;;stativo;Illocutionary Force;Illocutionary Force;Illocutionary Force;Illocutionary Force;Illocutionary Force;v. intr., v. tr.;Illocutionary Force_Illocutionary Force_Illocutionary Force_Illocutionary Force_Illocutionary Force;sì
+arrivare;verb.motion;verb.social;puntuale telico;Illocutionary Force;Manner;;;Manner;v. intr., v. tr.;Illocutionary Force_Manner_Manner;sì
+chiedere;verb.communication;verb.cognition;puntuale atelico;;;;;;v. tr., v. intr.;;no
+ridere;verb.body;verb.cognition;attivit√†;Intensity;Intensity;;Intensity;Intensity;v. intr., v. tr.;Intensity_Intensity_Intensity_Intensity;sì
+bisognare;verb.stative;;stativo;;Illocutionary Force;;;;v. intr.;Illocutionary Force;sì
+conoscere1;verb.cognition;;stativo;;Illocutionary Force;;;;v. intr.;Illocutionary Force;sì
+conoscere2;verb.communication;;puntuale telico;;;;;;v. intr.;;no
+aspettare;verb.stative;;attivit√†;;Manner;Manner;;Manner;v. tr., v. intr.;Manner_Manner_Manner;sì
+tenere1;verb.stative;verb.possession;stativo;;Illocutionary Force;;;;v. tr., v. intr.;Illocutionary Force;sì
+tenere2;verb.emotion;;stativo;;;;;;v. tr., v. intr.;;no
+piacere;verb.emotion;;stativo;Intensity;Intensity;;;Intensity;v. intr.;Intensity_Intensity_Intensity;sì
+passare1;verb.motion;verb.contact;puntuale atelico;;Illocutionary Force;;Modal/sentence intensification;;v. intr.;Illocutionary Force_Modal/sentence intensification;sì
+passare2;verb.motion;;puntuale telico;Reiteration;;;;;v. intr.;Reiteration;sì
+lavorare;verb.creation;;attivit√†;Argument Quantity;Argument Quantity;;Argument Quantity;;v. intr., v. tr.;Argument Quantity_Argument Quantity_Argument Quantity;sì
+riguardare;verb.stative;verb.change;attivit√†;;;;;;v. tr., v. intr.;;no
+mangiare1;verb.consumption;;attivit√†;Argument Quantity;;;;;v. tr., v. intr.;Argument Quantity;sì
+mangiare2;verb.consumption;;attivit√†;Argument Quantity;;;;;v. tr., v. intr.;Argument Quantity;sì
+mangiare3;verb.emotion;;attivit√†;;Intensity;;;;v. tr., v. intr.;Intensity;sì
+mangiare4;verb.emotion;;attivit√†;Intensity;;;Intensity;;v. tr., v. intr.;Intensity_Intensity;sì
+parere;verb.perception;;puntuale telico;;;;;;v. intr.;;no
+cominciare;verb.social;verb.change;puntuale atelico;Completion;;;;;v. tr., v. intr.;Completion;sì
+diventare;verb.change;verb.stative;risultativo;;;;;;v. intr.;;no
+telefonare;verb.communication;;puntuale atelico;;;;;;v. intr., v. tr.;;no
+presentare;verb.creation;verb.perception;risultativo;;Illocutionary Force;;;;v. tr.;Illocutionary Force;sì
+servire;verb.consumption;verb.possession;attivit√†;Intensity;Illocutionary Force;;;;v. tr., v. intr.;Intensity_Illocutionary Force;sì
+trattare;verb.communication;;attivit√†;;;;;;v. tr., v. intr.;;no
+tornare;verb.motion;;puntuale telico;Illocutionary Force;Illocutionary Force;;;Illocutionary Force;v. intr., v. tr.;Illocutionary Force_Illocutionary Force_Illocutionary Force;sì
+spiegare;verb.stative;verb.communication;attivit√†;;;;;;v. tr.;;no
+continuare;verb.social;;attivit√†;;;;;;v. tr., v. intr.;;no
+provare1;verb.cognition;;puntuale atelico;;Illocutionary Force;;Modal/sentence intensification;Manner;v. tr., v. intr.;Illocutionary Force_Modal/sentence intensification_Manner;sì
+provare2;verb.emotion;verb.consumption;attivit√†;;;;;;v. tr., v. intr.;;no
+usare;verb.consumption;;puntuale atelico;;Reiteration;;Amelioration;;v. tr., v. intr.;Reiteration_Amelioration;sì
+ascoltare;verb.social;verb.perception;attivit√†;;Manner;;;;v. tr.;Manner;sì
+rispondere1;verb.communication;;attivit√†;;;;;;v. tr.;;no
+rispondere2;verb.communication;;puntuale atelico;Illocutionary Force;Illocutionary Force;;Modal/sentence intensification;;v. intr.;Illocutionary Force_Illocutionary Force_Modal/sentence intensification;sì
+succedere;verb.social;verb.change;puntuale atelico;Illocutionary Force;;;;;v. intr.;Illocutionary Force;sì
+rendere;verb.possession;;puntuale atelico;Completion;;;;;v. tr.;Completion;sì
+considerare;verb.perception;verb.communication;attivit√†;;;;;;v. tr.;;no
+esistere;verb.stative;;stativo;;Illocutionary Force;;;;v. intr.;Illocutionary Force;sì
+porre;verb.stative;verb.contact;puntuale atelico;;;;;;v. tr., v. intr.;;no
+nascere;verb.motion;verb.change;puntuale telico;;;;;;v. intr.;;no
+comprare;verb.possession;;puntuale atelico;Illocutionary Force;Illocutionary Force;;;;v. tr.;Illocutionary Force_Illocutionary Force;sì
+ritenere;verb.emotion;verb.possession;stativo;;;;;;v. tr.;;no
+pregare;verb.communication;;attivit√†;;Illocutionary Force;;Reiteration;;v. tr.;Illocutionary Force_Reiteration;sì
+intendere;verb.cognitive;verb.communication;stativo;;Illocutionary Force;;;;v. tr., v. intr.;Illocutionary Force;sì
+chiudere;verb.stative;verb.social;puntuale telico;Completion;Illocutionary Force;;Completion;;v. tr., v. intr.;Completion_Illocutionary Force_Completion;sì
+preparare;verb.creation;verb.change;attivit√†;;;;;;v. tr.;;no
+togliere;verb.change;verb.cognition;puntuale telico;;;;;;v. tr.;;no
+intervenire;verb.social;verb.change;puntuale atelico;;;;;;v. intr.;;no
+dormire;verb.body;;attivit√†;Duration;Duration;Manner;Manner;Manner;v. intr., v. tr.;Duration_Duration_Manner_Manner_Manner;sì
+giocare;verb.social;verb.competition;attivit√†;;;;;Illocutionary Force;v. intr., v. tr.;Illocutionary Force;sì
+tirare;verb.motion;verb.creation;puntuale atelico;;;;;;v. tr., v. intr.;;no
+tirare2;verb.consumption;;risultativo;Argument Quantity;;;;;v. tr., v. intr.;Argument Quantity;sì
+tirare3;verb.social;;attivit√†;;Intensity;;;;v. tr., v. intr.;Intensity;sì
+aiutare;verb.emotion;verb.social;attivit√†;Intensity;Illocutionary Force;;;;v. tr.;Intensity_Illocutionary Force;sì
+risolvere;verb.social;verb.communication;puntuale telico;Completion;;;;;v. tr., v. intr.;Completion;sì
+iniziare;verb.stative;verb.creation;puntuale atelico;;;;;;v. intr., v. tr.;;no
+buttare;verb.contact;;puntuale atelico;Illocutionary Force;Illocutionary Force;;;;v. tr., v. intr.;Illocutionary Force_Illocutionary Force;sì
+rappresentare;verb.creation;verb.social;attivit√†;;;;;;v. tr.;;no
+legare;verb.social;verb.contact;puntuale telico;Intensity;;;;;v. tr., v. intr.;Intensity;sì
+rifare;verb.creation;;risultativo;;;;;;v. tr.;;no
+dividere;verb.stative;verb.motion;puntuale atelico;;;;;;v. tr.;;no
+partecipare;verb.social;verb.stative;attivit√†;;Illocutionary Force;;;;v. intr., v. tr.;Illocutionary Force;sì
+dimostrare;verb.perception;verb.communication;stativo;;;;;;v. tr., v. intr.;;no
+utilizzare;verb.consumption;;puntuale atelico;;;;;;v. tr.;;no
+affrontare;verb.social;verb.competition;attivit√†;;;;;;v. tr.;;no
+regalare;verb.possession;;puntuale atelico;;Illocutionary Force;;;;v. tr.;Illocutionary Force;sì
+dispiacere;verb.emotion;verb.communication;stativo;Intensity;Illocutionary Force;;;;v. intr.;Intensity_Illocutionary Force;sì
+definire;verb.communication;verb.stative;puntuale telico;;;;;;v. tr.;;no
+incontrare;verb.motion;verb.perception;puntuale atelico;;;;;;v. tr., v. intr.;;no
+girare;verb.emotion;verb.creation;stativo;;;;;Intensity;v. tr., v. intr.;Intensity;sì
+unire;verb.stative;verb.creation;puntuale telico;;;;;;v. tr.;;no
+comprendere;verb.stative;verb.change;puntuale telico;Illocutionary Force;Illocutionary Force;;;;v. tr.;Illocutionary Force_Illocutionary Force;sì
+notare;verb.motion;verb.perception;puntuale atelico;Manner;;;Manner;;v. tr.;Manner_Manner;sì
+toccare;verb.emotion;verb.stative;attivit√†;Illocutionary Force;;;;;v. tr., v. intr.;Illocutionary Force;sì
+vincere;verb.possession;verb.competition;puntuale atelico;Manner;Manner;;Manner;Manner;v. tr., v. intr.;Manner_Manner_Manner_Manner;sì
+spostare;verb.motion;verb.stative;risultativo;;;;;;v. tr.;;no
+inserire;verb.change;verb.contact;risultativo;;;;;;v. tr.;;no
+svolgere;verb.creation;verb.contact;stativo;;;;;;v. tr.;;no
+ritirare;verb.perception;;puntuale atelico;;Illocutionary Force;;;;v. tr.;Illocutionary Force;sì
+ritirare2;verb.social;;puntuale telico;;Illocutionary Force;;;;v. tr.;Illocutionary Force;sì
+realizzare;verb.creation;verb.possession;risultativo;;;;;;v. tr.;;no
+assumere1;verb.consumption;;puntuale atelico;;;;;;v. tr.;;no
+assumere2;verb.possession;verb.consumption;attivit√†;;;;;;v. tr.;;no
+fregare;ver.social;;puntuale atelico;Illocutionary Force;;;;;v. tr.;Illocutionary Force;sì
+fregare2;verb.cognitive;;stativo;Completion;Completion;;;;v. tr.;Completion_Completion;sì
+consentire;verb.stative;;puntuale atelico;;;;;;v. tr., v. intr.;;no
+amare;verb.emotion;;stativo;Intensity;Intensity;Intensity;;Intensity;v. tr.;Intensity_Intensity_Intensity_Intensity;sì
+scendere;verb.motion;verb.social;risultativo;Argument Quantity;Manner;;;Manner;v. intr., v. tr.;Argument Quantity_Manner_Manner;sì
+scendere2;verb.social;;puntuale telico;Illocutionary Force;;;;;v. intr., v. tr.;Illocutionary Force;sì
+lavare;verb.change;verb.contact;risultativo;;;;;;v. tr.;;no
+stabilire;verb.creation;verb.social;puntuale telico;;;;;;v. tr.;;no
+individuare;verb.possession;verb.perception;puntuale telico;;;;;;v. tr.;;no
+costruire;verb.creation;verb.change;risultativo;;;;;;v. tr.;;no
+inventare;verb.creation;;risultativo;Completion;;;;;v. tr.;Completion;sì
+ammazzare;verb.emotion;verb.contact;puntuale telico;;Illocutionary Force;;;;v. tr.;Illocutionary Force;sì
+sottolineare;verb.communication;;risultativo;;;;;;v. tr.;;no
+dichiarare;verb.communication;;risultativo;;;;;;v. tr.;;no
+costringere;verb.creation;verb.social;puntuale atelico;;;;;;v. tr.;;no
+accettare;verb.possession;verb.communication;puntuale telico;Manner;Illocutionary Force;;;;v. tr.;Manner_Illocutionary Force;sì
+impegnare1;verb.communication;verb.social;puntuale atelico;;;;;;v. tr.;;no
+impegnare2;verb.social;;attivit√†;Duration;;;;;v. tr.;Duration;sì
+attaccare1;verb.competition;verb.body;attivit√†;;;;;Reiteration;v. tr.;Reiteration;sì
+attaccare2;verb.emotion;verb.contact;puntuale telico;Intensity;;;;;v. tr.;Intensity;sì
+rivolgere;verb.motion;;puntuale atelico;;;;;;v. tr.;;no
+tentare;verb.social;verb.communication;puntuale atelico;;;;;;v. tr.;;no
+tendere;verb.motion;verb.change;attivit√†;;;;;;v. tr., v. intr.;;no
+divertire;verb.social;verb.communication;attivit√†;Intensity;Intensity;;Intensity;Intensity;v. tr.;Intensity_Intensity_Intensity_Intensity;sì
+tagliare;verb.communication;verb.change;risultativo;Argument Quantity;Illocutionary Force;;;;v. tr., v. intr.;Argument Quantity_Illocutionary Force;sì
+rientrare;verb.motion;;puntuale telico;;;;;;v. intr., v. tr.;;no
+baciare;verb.contact;;attivit√†;;Intensity;;Modal/sentence intensification;;v. tr.;Intensity_Modal/sentence intensification;sì
+imparare;verb.cognition;;puntuale telico;;Illocutionary Force;;;;v. tr.;Illocutionary Force;sì
+levare1;verb.change;verb.motion;puntuale atelico;;;;Illocutionary Force;;v. tr.;Illocutionary Force;sì
+levare2;verb.change;verb.motion;puntuale telico;;;;;;v. tr.;;no
+occorrere;verb.possession;;puntuale atelico;;;;;;v. intr.;;no
+confermare;verb.stative;verb.social;puntuale atelico;Illocutionary Force;Illocutionary Force;;;;v. tr.;Illocutionary Force_Illocutionary Force;sì
+fornire;verb.consumption;verb.possession;puntuale atelico;;;;;;v. tr.;;no
+applicare;verb.consumption;;risultativo;;;;;;v. tr.;;no
+citare;verb.communication;;puntuale atelico;Illocutionary Force;Illocutionary Force;;;;v. tr.;Illocutionary Force_Illocutionary Force;sì
+descrivere;verb.creation;verb.communication;risultativo;;;;;;v. tr.;;no
+emergere;verb.motion;verb.change;risultativo;;;;;;v. intr.;;no
+fissare1;verb.cognition;verb.communication;risultativo;Intensity;;;;Intensity;v. intr.;Intensity_Intensity;sì
+fissare2;verb.perception;;attivit√†;Manner;;;;Duration;v. intr.;Manner_Duration;sì
+formare;verb.stative;verb.social;risultativo;;;;;;v. tr.;;no
+importare;verb.emotion;verb.possession;puntuale telico;;;;;;v. intr., v. tr.;;no
+correre1;verb.motion;verb.competition;attivit√†;Manner;;;;Manner;v. intr., v. tr.;Manner_Manner;sì
+correre2;verb.motion;;risultativo;Manner;Manner;;Manner;;v. intr., v. tr.;Manner_Manner_Manner;sì
+operare;verb.social;verb.competition;risultativo;;;;;;v. intr., v. tr.;;no
+risultare;verb.change;verb.stative;puntuale atelico;;;;;;v. intr., v. tr.;;no
+abituare;verb.social;;risultativo;Completion;;;;;v. tr.;Completion;sì
+combattere;verb.social;verb.competition;attivit√†;;;;;;v. intr., v. tr.;;no
+prevedere;verb.communication;verb.cognition;puntuale telico;Illocutionary Force;;;;;v. tr.;Illocutionary Force;sì
+ridurre;verb.creation;verb.change;puntuale atelico;Argument Quantity;;;;;v. tr.;Argument Quantity;sì
+salire;verb.change;verb.motion;risultativo;Argument Quantity;;;Argument Quantity;;v. intr., v. tr.;Argument Quantity_Argument Quantity;sì
+correggere;verb.change;verb.cognition;risultativo;;;;;;v. tr.;;no
+comportare;verb.stative;;attivit√†;;;;;;v. tr.;;no
+chiarire;verb.communication;verb.cognition;risultativo;;;;;;v. tr., v. intr.;;no
+evitare;verb.motion;verb.social;attivit√†;Manner;Completion;;Illocutionary Force;;v. tr.;Manner_Completion_Illocutionary Force;sì
+trasformare;verb.change;;puntuale atelico;;;;;;v. tr.;;no
+rimettere;verb.possession;verb.communication;puntuale telico;;;;;;v. tr., v. intr.;;no
+raggiungere;verb.motion;verb.social;puntuale telico;;;;;;v. tr.;;no
+battere1;verb.motion;verb.creation;puntuale atelico;;Reiteration;;;;v. tr.;Reiteration;sì
+battere2;verb.emotion;verb.perception;puntuale telico;;;;;;v. tr.;;no
+soffrire;verb.emotion;;attivit√†;Intensity;Intensity;;Intensity;;v. tr., v. intr.;Intensity_Intensity_Intensity;sì
+curare;verb.social;verb.body;risultativo;;;;;;v. tr.;;no
+introdurre;verb.motion;verb.social;risultativo;;;;;;v. tr.;;no
+gestire;verb.social;;attivit√†;;;;;;v. tr.;;no
+contenere;verb.social;verb.competition;attivit√†;Intensity;;;;;v. tr.;Intensity;sì
+collegare;verb.contact;verb.communication;puntuale atelico;;;;;;v. tr., v. intr.;;no
+bloccare;verb.change;verb.motion;puntuale atelico;Completion;Illocutionary Force;;Illocutionary Force;Manner;v. tr.;Completion_Illocutionary Force_Illocutionary Force_Manner;sì
+coprire;verb.stative;verb.communication;risultativo;;;;;;v. tr.;;no
+aumentare;verb.change;;attivit√†;;;;;Intensity;v. tr., v. intr.;Intensity;sì
+colpire;verb.emotion;verb.possession;puntuale atelico;Intensity;;;;;v. tr.;Intensity;sì
+insistere;verb.communication;verb.change;attivit√†;;Illocutionary Force;;;;v. intr.;Illocutionary Force;sì
+concentrare;verb.cognition;;attivit√†;Intensity;Intensity;;Intensity;;v. tr.;Intensity_Intensity_Intensity;sì
+osservare1;verb.social;verb.communication;puntuale atelico;;;;;;v. tr.;;no
+osservare2;verb.social;verb.perception;attivit√†;;;;;;v. tr.;;no
+accompagnare;verb.motion;verb.creation;puntuale atelico;;;;;;v. tr.;;no
+liberare;verb.change;verb.motion;risultativo;Completion;;;;;v. tr.;Completion;sì
+dirigere1;verb.social;verb.competition;attivit√†;;;;;;v. intr.;;no
+dirigere2;verb.motion;;puntuale atelico;;;;;;v. tr.;;no
