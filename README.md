@@ -5,12 +5,34 @@ Repository with materials and code for the poster "Superlative events: intensify
 ## Data distribution and test results
 
 ### Verbs Found
+* Found types: 201/350
+* Found tense-types: 371/1500
 
 ### Tense
 
 ### Aktionsart
 
+| Class | Not_Found (types) | Found (types)| **Sum**|
+|-------|-------------------|--------------|--------|
+| Achievement | 39 | 61 | **100** |
+| Activity | 28 | 46 | **74** |
+| Punctual_atelic | 26 | 27 | **53** |
+| Resultative | 34 | 31 | **65** |
+| State | 22 | 36 | **58** |
+| **Sum** | **149** | **201** | **350** |
+
 #### Aktionsart vs. Tense
+|Tense   | Achievement |	Activity | 	Punctual_atelic |	Resultative |	State |
+|--------|-------------|-----------|------------------|-------------|-------|
+| Gerund | 13 | 15 | 3 | 5 | 8 |
+| Infinitive | 19 | 19 | 11 | 7 | 11 |
+| PastImperfective | 2 | 3 | 0 | 0 | 9 |
+| PastPerfective | 44 | 25 | 17 | 20 | 15 |
+| Present | 33 | 29 | 17 | 17 | 29 |
+
+![alt_text](Pictures/TensevsAkt.png)
+
+Fig. Standardized residuals of the chi-square test (p = 0.01, V = 0.14).
 
 ### Semantic Field
 
