@@ -1,14 +1,19 @@
 # Verb*issimo*
 
-Repository with materials and code for the poster "Superlative events: intensifying verbs in Italian through the elative suffix -*issimo*".
+Repository containing materials and code for the poster "Superlative events: intensifying verbs in Italian through the elative suffix -*issimo*".
 
 ## 1. Data distribution and test results
 
 ### 1.1. Verbs Found
 * Found types: 201/350
-* Found tense-types: 371/1500
+* Found tenses: 371/1500
 
-### 1.2. Tense
+### 1.2. Tenses
+
+|*tense*|Gerund|	Infinitive | PastImperfective |	PastPerfective |	Present|
+|-------|------|-------------|------------------|----------------|---------|
+|*n. verbs*|44|	67|	14	|121	|125|
+
 
 ### 1.3. Aktionsart
 
@@ -22,6 +27,8 @@ Repository with materials and code for the poster "Superlative events: intensify
 | **Sum** | **149** | **201** | **350** |
 
 #### 1.3.1. Aktionsart vs. Tense
+
+
 |Tense   | Achievement |	Activity | 	Punctual_atelic |	Resultative |	State |
 |--------|-------------|-----------|------------------|-------------|-------|
 | Gerund | 13 | 15 | 3 | 5 | 8 |
@@ -32,18 +39,67 @@ Repository with materials and code for the poster "Superlative events: intensify
 
 ![alt_text](Pictures/TensevsAkt.png)
 
-Fig. Standardized residuals of the chi-square test (p = 0.01, V = 0.14).
+*Fig. 1) Standardized residuals of the chi-square test (p = 0.01, V = 0.14).*
 
 ### 1.4. Semantic Field
 
+| *SemField* | change | communication | mental | motion | object_related | physical | possession | social | stative |
+|----------|--------|---------------|--------|--------|----------------|----------|------------|--------|---------|
+| *n. verbs* | 26     | 39            | 87     | 56     | 24             | 28       | 27         | 31     | 32      |
+
 ### 1.5. Intensification
 
-#### 1.5.1. By Aktionsart
+|*Intensified feature*|Amelioration|Completion|Duration|Illocutionary Force|Intensity/Degree|Manner|Quantity|Reiteration|
+|----------|-------|-------|-------|-------|-------|-------|-------|-------|
+| *n. tenses*|4|36|12|121|70|62|29|16|
+
+#### 1.5.1. vs. Aktionsart
+
+             |     Amelioration    |     Completion    |     Duration    |     Illocutionary   Force    |     Intensity/Degree    |     Manner    |     Quantity    |     Reiteration    |
+|------------------------|---------------------|-------------------|-----------------|------------------------------|-------------------------|---------------|-----------------|--------------------|
+|     Achievement        |     1               |     20            |     0           |     47                       |     14                  |     15        |     3           |     4              |
+|     Activity           |     1               |     3             |     12          |     10                       |     27                  |     20        |     8           |     5              |
+|     Punctual_atelic    |     1               |     3             |     0           |     24                       |     2                   |     8         |     1           |     6              |
+|     Resultative        |     0               |     6             |     0           |     10                       |     4                   |     15        |     12          |     0              |
+|     State              |     1               |     4             |     0           |     30                       |     23                  |     4         |     5           |     1              |
+
+![alt_text](Pictures/IntensvAkt.png)
+
+*Fig.2) Standardized residuals of the chi-square test (p = 0.001, V = 0.34).*
 
 #### 1.5.2. vs. Tense
 
+|                         |     Amelioration    |     Completion    |     Duration    |     Illocutionary   Force    |     Intensity/Degree    |     Manner    |     Quantity    |     Reiteration    |
+|-------------------------|---------------------|-------------------|-----------------|------------------------------|-------------------------|---------------|-----------------|--------------------|
+|     Gerund              |     0               |     3             |     4           |     6                        |     12                  |     15        |     3           |     1              |
+|     Infinitive          |     2               |     2             |     2           |     16                       |     8                   |     5         |     7           |     4              |
+|     PastImperfective    |     0               |     1             |     0           |     5                        |     6                   |     2         |     0           |     0              |
+|     PastPerfective      |     1               |     25            |     4           |     29                       |     25                  |     15        |     16          |     6              |
+|     Present             |     1               |     5             |     2           |     65                       |     19                  |     25        |     3           |     5              |
+
+![alt_text](Pictures/IntensvTense.png)
+
+*Fig.3) Standardized residuals of the chi-square test (p = 0.001 , V = 0.24).*
+
 #### 1.5.3. vs. Semantic Field
 
+|                       |     Amelioration    |     Completion    |     Duration    |     Illocutionary   Force    |     Intensity/Degree    |     Manner    |     Quantity    |     Reiteration    |
+|-----------------------|---------------------|-------------------|-----------------|------------------------------|-------------------------|---------------|-----------------|--------------------|
+|     change            |     0               |     3             |     0           |     10                       |     3                   |     5         |     5           |     0              |
+|     communication     |     0               |     1             |     0           |     19                       |     4                   |     3         |     3           |     9              |
+|     mental            |     1               |     7             |     5           |     28                       |     34                  |     8         |     3           |     1              |
+|     motion            |     0               |     12            |     0           |     13                       |     5                   |     19        |     4           |     3              |
+|     object_related    |     1               |     2             |     3           |     2                        |     3                   |     1         |     11          |     1              |
+|     physical          |     1               |     3             |     2           |     6                        |     9                   |     7         |     0           |     0              |
+|     possession        |     0               |     2             |     1           |     12                       |     0                   |     10        |     1           |     1              |
+|     social            |     0               |     3             |     1           |     14                       |     8                   |     4         |     0           |     1              |
+|     stative           |     1               |     3             |     0           |     17                       |     4                   |     5         |     2           |     0              |
+
+
+
+![alt_text](Pictures/IntensvSem.png)
+
+*Fig.4 Standardized residuals of the chi-square test (p = 0.001 , V = 0.27).*
 
 
 
