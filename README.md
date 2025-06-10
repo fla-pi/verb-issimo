@@ -2,15 +2,15 @@
 
 Repository with materials and code for the poster "Superlative events: intensifying verbs in Italian through the elative suffix -*issimo*".
 
-## Data distribution and test results
+## 1. Data distribution and test results
 
-### Verbs Found
+### 1.1. Verbs Found
 * Found types: 201/350
 * Found tense-types: 371/1500
 
-### Tense
+### 1.2. Tense
 
-### Aktionsart
+### 1.3. Aktionsart
 
 | Class | Not_Found (types) | Found (types)| **Sum**|
 |-------|-------------------|--------------|--------|
@@ -21,7 +21,7 @@ Repository with materials and code for the poster "Superlative events: intensify
 | State | 22 | 36 | **58** |
 | **Sum** | **149** | **201** | **350** |
 
-#### Aktionsart vs. Tense
+#### 1.3.1. Aktionsart vs. Tense
 |Tense   | Achievement |	Activity | 	Punctual_atelic |	Resultative |	State |
 |--------|-------------|-----------|------------------|-------------|-------|
 | Gerund | 13 | 15 | 3 | 5 | 8 |
@@ -34,15 +34,15 @@ Repository with materials and code for the poster "Superlative events: intensify
 
 Fig. Standardized residuals of the chi-square test (p = 0.01, V = 0.14).
 
-### Semantic Field
+### 1.4. Semantic Field
 
-### Intensification
+### 1.5. Intensification
 
-#### By Aktionsart
+#### 1.5.1. By Aktionsart
 
-#### vs. Tense
+#### 1.5.2. vs. Tense
 
-#### vs. Semantic Field
+#### 1.5.3. vs. Semantic Field
 
 
 
