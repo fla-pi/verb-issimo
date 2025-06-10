@@ -1,4 +1,4 @@
-# Verb-*issimo*
+# Verb*issimo*
 
 Repository with materials and code for the poster "Superlative events: intensifying verbs in Italian through the elative suffix -*issimo*".
 
