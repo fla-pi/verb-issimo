@@ -2,20 +2,22 @@
 
 Repository containing materials and code for the poster "Superlative events: intensifying verbs in Italian through the elative suffix -*issimo*".
 
-## 1. Data distribution and test results
+## Appendix
 
-### 1.1. Verbs Found
+### 1. Data distribution and test results
+
+#### 1.1. Verbs Found
 * Found types: 201/350
 * Found tenses: 371/1500
 
-### 1.2. Tenses
+#### 1.2. Tenses
 
 |*tense*|Gerund|	Infinitive | PastImperfective |	PastPerfective |	Present|
 |-------|------|-------------|------------------|----------------|---------|
 |*n. verbs*|44|	67|	14	|121	|125|
 
 
-### 1.3. Aktionsart
+#### 1.3. Aktionsart
 
 | Class | Not_Found (types) | Found (types)| **Sum**|
 |-------|-------------------|--------------|--------|
@@ -26,7 +28,7 @@ Repository containing materials and code for the poster "Superlative events: int
 | State | 22 | 36 | **58** |
 | **Sum** | **149** | **201** | **350** |
 
-#### 1.3.1. Aktionsart vs. Tense
+##### 1.3.1. Aktionsart vs. Tense
 
 
 |Tense   | Achievement |	Activity | 	Punctual_atelic |	Resultative |	State |
@@ -41,21 +43,21 @@ Repository containing materials and code for the poster "Superlative events: int
 
 *Fig. 1) Standardized residuals of the chi-square test (p = 0.01, V = 0.14).*
 
-### 1.4. Semantic Field
+#### 1.4. Semantic Field
 
 | *SemField* | change | communication | mental | motion | object_related | physical | possession | social | stative |
 |----------|--------|---------------|--------|--------|----------------|----------|------------|--------|---------|
 | *n. verbs* | 26     | 39            | 87     | 56     | 24             | 28       | 27         | 31     | 32      |
 
-### 1.5. Intensification
+#### 1.5. Intensification
 
 |*Intensified feature*|Amelioration|Completion|Duration|Illocutionary Force|Intensity/Degree|Manner|Quantity|Reiteration|
-|----------|-------|-------|-------|-------|-------|-------|-------|-------|
+|---------------------|-------------|----------|-------|--------------------|---------------|-------|-------|-----------|
 | *n. tenses*|4|36|12|121|70|62|29|16|
 
-#### 1.5.1. vs. Aktionsart
+##### 1.5.1. vs. Aktionsart
 
-             |     Amelioration    |     Completion    |     Duration    |     Illocutionary   Force    |     Intensity/Degree    |     Manner    |     Quantity    |     Reiteration    |
+|            |     Amelioration    |     Completion    |     Duration    |     Illocutionary   Force    |     Intensity/Degree    |     Manner    |     Quantity    |     Reiteration    |
 |------------------------|---------------------|-------------------|-----------------|------------------------------|-------------------------|---------------|-----------------|--------------------|
 |     Achievement        |     1               |     20            |     0           |     47                       |     14                  |     15        |     3           |     4              |
 |     Activity           |     1               |     3             |     12          |     10                       |     27                  |     20        |     8           |     5              |
@@ -67,7 +69,7 @@ Repository containing materials and code for the poster "Superlative events: int
 
 *Fig.2) Standardized residuals of the chi-square test (p = 0.001, V = 0.34).*
 
-#### 1.5.2. vs. Tense
+##### 1.5.2. vs. Tense
 
 |                         |     Amelioration    |     Completion    |     Duration    |     Illocutionary   Force    |     Intensity/Degree    |     Manner    |     Quantity    |     Reiteration    |
 |-------------------------|---------------------|-------------------|-----------------|------------------------------|-------------------------|---------------|-----------------|--------------------|
@@ -81,7 +83,7 @@ Repository containing materials and code for the poster "Superlative events: int
 
 *Fig.3) Standardized residuals of the chi-square test (p = 0.001 , V = 0.24).*
 
-#### 1.5.3. vs. Semantic Field
+##### 1.5.3. vs. Semantic Field
 
 |                       |     Amelioration    |     Completion    |     Duration    |     Illocutionary   Force    |     Intensity/Degree    |     Manner    |     Quantity    |     Reiteration    |
 |-----------------------|---------------------|-------------------|-----------------|------------------------------|-------------------------|---------------|-----------------|--------------------|
