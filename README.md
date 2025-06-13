@@ -8,7 +8,7 @@ Repository containing materials and code for the poster "Superlative events: int
 
 | *intensified feature* | test |transl.|
 |-----------------------|------|-----|
-|Amelioration	|*V bene*|* V well*|
+|Amelioration	|*V bene*|*V well*|
 |Illocutionary force	|*assolutamente, davvero*| *absolutely*|
 |Argument quantity|	*un sacco* | *a lot*|
 |Duration	|*a lungo* |*for a long time*|
