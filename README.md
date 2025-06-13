@@ -4,6 +4,20 @@ Repository containing materials and code for the poster "Superlative events: int
 
 ## Appendix
 
+### 0. Substitution tests for intensified feature
+
+| *intensified feature* | test |transl.|
+|-----------------------|------|-----|
+|Amelioration	|V bene| V well|
+|Illocutionary force	|assolutamente, davvero| absolutely|
+|Argument quantity|	un sacco | a lot|
+|Duration	|a lungo |for a long time|
+|Completion	|del tutto|completely|
+|Reiteration	|a lungo & molte volte| for a long time & many times|
+|Manner	|in modo X (Xmente)| how (X-ly)|
+|Intensity	|intensamente| intensely|
+
+
 ### 1. Data distribution and test results
 
 #### 1.1. Verbs Found
